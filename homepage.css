@@ -260,7 +260,8 @@ nav ul li a {
 
 .quoteban{
   position: center center;
-  
+  height:50vh;
+  width: 100%;
 }
 
 /*------------------------------footer------------------*/
